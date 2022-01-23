@@ -48,3 +48,13 @@ input {
 {
     color: darkorange;
 }
+.environment_li
+{
+    margin-top: 13px;
+
+}
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
